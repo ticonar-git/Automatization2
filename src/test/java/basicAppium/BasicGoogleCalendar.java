@@ -1,6 +1,5 @@
 package basicAppium;
 
-import io.appium.java_client.AppiumBy;
 import io.appium.java_client.android.AndroidDriver;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;
@@ -14,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.net.URL;
 import java.time.Duration;
-
+//Fecha 10/10/2026
 public class BasicGoogleCalendar {
 
     private AndroidDriver driver;
